@@ -1,4 +1,4 @@
-[200~# Formação Java Developer & Software QA 🎯
+
 
 ### 👋 Olá, eu sou Augusto Cesar Nascimento
 Atualmente estou em uma transição de carreira estratégica para a área de tecnologia, focando no ecossistema **Java** e em **Quality Assurance (QA)**. Após uma jornada profissional sólida de 6 anos em uma mesma instituição, decidi aplicar minha experiência em processos e disciplina no desenvolvimento de software de alta qualidade.
