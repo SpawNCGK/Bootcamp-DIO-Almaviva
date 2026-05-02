@@ -19,11 +19,6 @@ Atualmente estou em uma transição de carreira estratégica para a área de tec
 *   **Ferramentas:** Git, GitHub, VS Code e Git Bash.
 *   **Sistemas:** Experiência com ambientes Windows e Windows Subsystem for Linux (WSL/Git Bash).
 
-### 🔍 Por que Software QA?
-Minha transição é guiada pela busca por excelência. Acredito que o código só está pronto quando é confiável. Por isso, em cada exercício deste repositório, aplico conceitos de:
-*   Validação de cenários de teste.
-*   Tratamento de exceções.
-*   Escrita de código limpo e documentado.
 
----
-📫 **Localização:** São Paulo - SP (Disponível para oportunidades 100% remotas)
+
+
