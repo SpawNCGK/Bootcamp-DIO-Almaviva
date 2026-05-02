@@ -1,18 +1,11 @@
-## Getting Started
+# Exercício: Área do Quadrado 📐
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### 📝 Descrição
+Programa que calcula a área de um quadrado. É um ótimo exemplo de como o Java lida com cálculos geométricos simples e interação com o console.
 
-## Folder Structure
+### 🚀 O que aprendi:
+*   Importação da classe `java.util.Scanner`.
+*   Cálculo de potência ou multiplicação simples.
+*   Saída formatada no console.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
