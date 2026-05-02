@@ -1,18 +1,15 @@
-## Getting Started
+# Exercício 04: Diferença de Idade 🎂
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### 📝 Descrição
+Este programa em Java calcula a diferença de idade entre duas pessoas de forma simples e direta. Foi desenvolvido como parte dos estudos de **Fundamentos da Linguagem de Programação Java** no Bootcamp DIO/Almaviva.
 
-## Folder Structure
+### 🚀 Tecnologias Utilizadas
+*   Java (JDK 17)
+*   Lógica de Programação
 
-The workspace contains two folders by default, where:
+### 🛠️ Como rodar o código
+1. Certifique-se de ter o Java instalado.
+2. Compile o arquivo: `javac Diferença.java`
+3. Execute: `java Diferença`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
