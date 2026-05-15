@@ -1,18 +1,11 @@
-## Getting Started
+# 🧮 Exercício 1: Tabuada Dinâmica
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📝 Descrição
+O sistema solicita um número ao usuário e gera automaticamente a tabuada de 1 a 10 deste valor.
 
-## Folder Structure
+## 💡 Lógica Aplicada
+Foi utilizado um laço de repetição `for` que itera de 1 até 10, realizando a multiplicação do número base pelo índice atual em cada ciclo.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🔍 Visão de QA
+* **Input Test:** Verificação do comportamento com números negativos e zero.
+* **Output:** Formatação padronizada para facilitar a leitura no console.
