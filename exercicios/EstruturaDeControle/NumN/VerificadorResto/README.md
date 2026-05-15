@@ -1,18 +1,13 @@
-## Getting Started
+# 🛑 Exercício 4: Loop de Interrupção por Divisibilidade
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📝 Descrição
+O programa solicita um número inicial e continua pedindo novos números até que um deles, ao ser dividido pelo inicial, resulte em um resto diferente de zero.
 
-## Folder Structure
+## 💡 Lógica Aplicada
+Uso de um loop infinito `while(true)` com condições internas de controle:
+- `continue`: Para ignorar números menores que o inicial.
+* `break`: Para encerrar o programa quando a regra de divisibilidade é quebrada.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🔍 Visão de QA
+* **Resiliência:** O programa não trava ao receber números menores; ele apenas os ignora conforme a regra de negócio.
+* **Lógica de Interrupção:** Teste de fluxo para garantir que o encerramento ocorra exatamente no momento da divisão não exata.
