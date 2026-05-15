@@ -1,18 +1,11 @@
-## Getting Started
+# ⚖️ Exercício 2: Calculadora de IMC
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📝 Descrição
+Cálculo do Índice de Massa Corporal (Peso / Altura²) com classificação baseada em faixas de saúde.
 
-## Folder Structure
+## 💡 Lógica Aplicada
+Uso de condicionais encadeadas (`if/else if`) para categorizar o resultado do cálculo. Foram utilizados dados do tipo `double` para garantir a precisão decimal.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🔍 Visão de QA
+* **Edge Cases:** Testes nas faixas de transição (ex: exatos 24.9 e 25.0) para validar se a classificação muda corretamente.
+* **Tipagem:** Uso de `Locale.US` para aceitar ponto como separador decimal.
